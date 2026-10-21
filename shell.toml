@@ -1,0 +1,132 @@
+[bar]
+background = "#111111"
+background-alpha = 1.0
+text = "#e8e6e3"
+active = "#e94248"
+size-horizontal = 32
+size-vertical = 34
+scale-with-font = true
+
+[controls]
+normal-color = "#e8e6e3"
+normal-fill-alpha = 0.05
+normal-border = "#343434"
+normal-border-alpha = 1.0
+normal-border-width = 1
+hover-cursor-color = "#f5f4f1"
+hover-cursor-fill-alpha = 0.10
+hover-cursor-border = "#8a8a86"
+hover-cursor-border-alpha = 1.0
+hover-cursor-border-width = 1
+focus-color = "#f5f4f1"
+focus-fill-alpha = 0.10
+focus-border = "#e94248"
+focus-border-alpha = 1.0
+focus-border-width = 1
+selected-color = "#f5f4f1"
+selected-fill-alpha = 0.16
+selected-border = "#e94248"
+selected-border-alpha = 1.0
+selected-border-width = 1
+pressed-fill-alpha = 0.22
+selection-fill-alpha = 0.28
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+panel-padding = 20
+popup-padding = 16
+control-height = 32
+popup-row-height = 32
+
+[font]
+base-size = 12
+heading = 18
+display = 28
+display-large = 36
+
+[popups]
+background = "#1c1c1c"
+background-alpha = 1.0
+text = "#e8e6e3"
+border = "#343434"
+border-alpha = 1.0
+border-width = 1
+
+[tooltip]
+background = "#1c1c1c"
+background-alpha = 1.0
+text = "#e8e6e3"
+border = "#343434"
+border-alpha = 1.0
+
+[notifications]
+background = "#1c1c1c"
+background-alpha = 1.0
+text = "#e8e6e3"
+border = "#343434"
+border-alpha = 1.0
+border-width = 1
+countdown = "#e94248"
+
+[launcher]
+background = "#111111"
+background-alpha = 1.0
+text = "#e8e6e3"
+border = "#343434"
+border-alpha = 1.0
+scrim = "#080808"
+scrim-alpha = 0.65
+selected-background = "#e8e6e3"
+selected-background-alpha = 1.0
+selected-text = "#111111"
+selected-border = "#e8e6e3"
+selected-border-alpha = 1.0
+
+[menu]
+background = "#111111"
+background-alpha = 1.0
+text = "#e8e6e3"
+border = "#343434"
+border-alpha = 1.0
+scrim = "#080808"
+scrim-alpha = 0.65
+selected-background = "#e8e6e3"
+selected-background-alpha = 1.0
+selected-text = "#111111"
+selected-border = "#e8e6e3"
+selected-border-alpha = 1.0
+
+[polkit]
+background = "#111111"
+background-alpha = 1.0
+text = "#e8e6e3"
+text-error = "#f16d70"
+border = "#343434"
+border-error = "#e94248"
+border-alpha = 1.0
+scrim = "#080808"
+scrim-alpha = 0.65
+accent = "#e94248"
+
+[lock]
+background = "#111111"
+background-alpha = 1.0
+text = "#e8e6e3"
+placeholder = "#a3a19d"
+text-error = "#f16d70"
+border = "#343434"
+border-active = "#e8e6e3"
+border-error = "#e94248"
+border-alpha = 1.0
+selection = "#e8e6e3"
+selection-alpha = 0.20
+
+[image-picker]
+scrim = "#080808"
+scrim-alpha = 0.65
+text = "#e8e6e3"
+selected-border = "#e94248"
+selected-border-alpha = 1.0
+unselected-border = "#e8e6e3"
+unselected-border-alpha = 0.25
